@@ -1,4 +1,4 @@
-# Project Japanese Restaurant Landing Page
+# Project - Japanese Restaurant Landing Page
 
 - Use only HTML, CSS and JavaScript.
 - Build a clean, responsive and pleasant design.
