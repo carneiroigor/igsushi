@@ -65,6 +65,12 @@
     position: relative;
   }
 
+.header__menu-mobile li {
+  font-family: var(--plus-jakarta-sans);
+  text-transform: uppercase;
+  color: #fff;
+}
+
 .header__menu a {
   transition: 0.3s;
 }
