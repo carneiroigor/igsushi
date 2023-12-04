@@ -1,9 +1,22 @@
-# Project - Japanese Restaurant Landing Page
+<h1 align="center" style="color: #b1454a; font-weight: bold;">
+    IGSUSHI
+</h1>
+<p align="center">
+ <a href="#tech">Technolgies</a> • 
+ <a href="#deploy">Deploy</a>
+</p>
 
-This is my first project, so I used the knowledge I have about HTML and CSS so far.
+<p align="center">
+<b>This is my first project, so I used the knowledge I have about HTML and CSS so far.</b>
+</p>
+<h2 id="tech">Technologies 💻</h2>
+  This site is a landing page for a Japanese restaurant, and to build it I used this technoligies:
 
-- Use only HTML, CSS and JavaScript + Vite.
-- Build a clean, responsive and pleasant design.
-- Insert some basic animations.
+  - **HTML**: HTML to create the structure of the landing page.
+  - **CSS**: Pure css to style the components.
+  - **JavaScript**: to control some basic animations.
+  - **Vite**: to create the project.
 
-You can visit the deployed app at this link: https://igsushi.vercel.app/
+<h2 id="deploy">Deploy 🌐</h2>
+
+- You can visit the deployed app at this link: https://igsushi.vercel.app/
