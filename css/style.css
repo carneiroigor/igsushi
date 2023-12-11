@@ -9,7 +9,6 @@
 @import url("./sections/subscribe.css");
 @import url("./sections/footer.css");
 
-/* CSS variables for reusablity across all files (including above imported) */
 :root {
   --playfair-display: "Playfair Display", serif;
   --plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
