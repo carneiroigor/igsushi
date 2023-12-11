@@ -2,7 +2,7 @@
     IGSUSHI
 </h1>
 <p align="center">
- <a href="#tech">Technolgies</a> • 
+ <a href="#tech">Technologies</a> • 
  <a href="#deploy">Deploy</a>
 </p>
 
