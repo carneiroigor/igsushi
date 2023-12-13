@@ -10,7 +10,7 @@
 <b>This is my first project, so I used the knowledge I have about HTML and CSS so far.</b>
 </p>
 <h2 id="tech">Technologies 💻</h2>
-  This site is a landing page for a Japanese restaurant, and to build it I used this technologies:
+  This is a landing page for a Japanese restaurant, and to build it I used this technologies:
 
   - **HTML**: HTML to create the structure of the landing page.
   - **CSS**: Pure css to style the components.
