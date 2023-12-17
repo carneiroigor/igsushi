@@ -17,6 +17,6 @@
   - **JavaScript**: to control some basic animations.
   - **Vite**: to create the project.
 
-<h2 id="deploy">Deploy 🌐</h2>
+<h2 id="deploy"> Deploy 🌐</h2>
 
 - You can visit the deployed app at this link: https://igsushi.vercel.app/
