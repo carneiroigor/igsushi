@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<b>This is my first project, so I used the knowledge I have about HTML and CSS so far.</b>
+<b>This is my first project, so I used the knowledge I have about HTML and CSS.</b>
 </p>
 <h2 id="tech">Technologies 💻</h2>
   This is a landing page for a Japanese restaurant, and to build it I used this technologies:
